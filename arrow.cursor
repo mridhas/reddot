@@ -1,1 +1,4 @@
-24 12 12 arrow.png
+24 12 12 build/arrow24.png
+32 16 16 build/arrow32.png
+48 24 24 build/arrow48.png
+64 32 32 build/arrow64.png

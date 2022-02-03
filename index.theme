@@ -2,4 +2,3 @@
 Name=Red dot
 Comment=Red dot to simulate laser pointer
 Example=default
-Inherits=breeze,hicolor
