@@ -20,7 +20,7 @@ git clone https://github.com/mridhas/reddot
 make build
 sudo make install
 ```
-(Make sure to run the build target and as non-root user, since inkscape may fail else.)
+(Make sure to run the build target as non-root user, since inkscape may fail else.)
 
 Enable the cursor from the DE's settings. That's it.
 
