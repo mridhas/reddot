@@ -1,4 +1,4 @@
-# RED DOT
+# RED DOT ![cursor image](arrow.svg)
 
 Simulate a laser pointer using the cursor in Linux.
 
